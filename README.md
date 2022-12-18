@@ -20,7 +20,7 @@ This is a concept of responsive nft website.
 
 ### Links
 
-- [Live Site](https://profound-haupia-b79321.netlify.app/)
+- [Live Site](https://responsive-nft-website-by-srk.netlify.app/)
 
 ## My process
 
